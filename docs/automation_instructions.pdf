@@ -1,0 +1,70 @@
+%PDF-1.7
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3688 >>
+stream
+BT /F1 12 Tf 50 750 Td (# Automation Process Overview) Tj ET
+BT /F1 12 Tf 50 718 Td (These instructions describe the automated workflow for managing client and patient records as requested by the state. The process ensures secure handling of data and centralized storage within a cloud drive.) Tj ET
+BT /F1 12 Tf 50 686 Td (## 1. Worker Checklist) Tj ET
+BT /F1 12 Tf 50 670 Td (1. Retrieve the list of clients from the state order.) Tj ET
+BT /F1 12 Tf 50 654 Td (2. For each client, locate the most recent document in the cloud drive.) Tj ET
+BT /F1 12 Tf 50 638 Td (3. Update any information requested by the state in the document.) Tj ET
+BT /F1 12 Tf 50 622 Td (4. Save the updated document as a new version, retaining the previous copy.) Tj ET
+BT /F1 12 Tf 50 590 Td (## 2. Secure Email Procedure) Tj ET
+BT /F1 12 Tf 50 574 Td (1. After updating, generate an encrypted email to the state with the updated files.) Tj ET
+BT /F1 12 Tf 50 558 Td (2. Use the approved secure email service to send the data.) Tj ET
+BT /F1 12 Tf 50 542 Td (3. Confirm delivery by monitoring the "sent" folder or automatic receipt notifications.) Tj ET
+BT /F1 12 Tf 50 510 Td (## 3. Cloud Drive Organization) Tj ET
+BT /F1 12 Tf 50 494 Td (1. Within the shared Google Drive, create folders for each client.) Tj ET
+BT /F1 12 Tf 50 478 Td (2. Store old documents in an `archive` subfolder.) Tj ET
+BT /F1 12 Tf 50 462 Td (3. Keep the updated version directly under the client folder.) Tj ET
+BT /F1 12 Tf 50 446 Td (4. Apply consistent naming, for example:) Tj ET
+BT /F1 12 Tf 50 430 Td (   - `client-name/YYYY-MM-DD_record_v1.docx` for the archived version.) Tj ET
+BT /F1 12 Tf 50 414 Td (   - `client-name/current_record.docx` for the active file.) Tj ET
+BT /F1 12 Tf 50 382 Td (## 4. Tagging System) Tj ET
+BT /F1 12 Tf 50 366 Td (1. Use Google Drive labels to tag documents with their status:) Tj ET
+BT /F1 12 Tf 50 350 Td (   - `Pending Update`) Tj ET
+BT /F1 12 Tf 50 334 Td (   - `Updated`) Tj ET
+BT /F1 12 Tf 50 318 Td (   - `Archived`) Tj ET
+BT /F1 12 Tf 50 302 Td (2. Tags help locate documents quickly and ensure compliance with the request from the state.) Tj ET
+BT /F1 12 Tf 50 270 Td (## 5. Web Application) Tj ET
+BT /F1 12 Tf 50 254 Td (1. Access the application from any browser using the provided URL.) Tj ET
+BT /F1 12 Tf 50 238 Td (2. The app displays orders from the state, client lists, and required documents.) Tj ET
+BT /F1 12 Tf 50 222 Td (3. Workers can update records directly in the app. The app automatically stores them in Google Drive and applies the correct tags.) Tj ET
+BT /F1 12 Tf 50 206 Td (4. Users with the appropriate role can see audit logs and verify what data was sent.) Tj ET
+BT /F1 12 Tf 50 174 Td (## 6. Getting Started) Tj ET
+BT /F1 12 Tf 50 158 Td (1. Log in to the shared Google Workspace using your company credentials.) Tj ET
+BT /F1 12 Tf 50 142 Td (2. Open the web app and navigate to the "Orders" page.) Tj ET
+BT /F1 12 Tf 50 126 Td (3. For each client record, click "Edit" to update the document as needed.) Tj ET
+BT /F1 12 Tf 50 110 Td (4. Save your changes and confirm that the record is tagged `Updated`.) Tj ET
+BT /F1 12 Tf 50 94 Td (5. Select "Send to State" to trigger the secure email process.) Tj ET
+BT /F1 12 Tf 50 78 Td (6. Review sent items to confirm successful delivery.) Tj ET
+BT /F1 12 Tf 50 46 Td (## 7. Additional Tips) Tj ET
+BT /F1 12 Tf 50 30 Td (- Make sure to review archived files periodically and remove old records if required by retention policies.) Tj ET
+BT /F1 12 Tf 50 14 Td (- If the web app becomes unavailable, manual updates can still be performed directly in Google Drive following the organization and tagging guidelines above.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000003981 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+4061
+%%EOF
